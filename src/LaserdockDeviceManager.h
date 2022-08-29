@@ -7,6 +7,7 @@
 
 #include <memory>
 #include <vector>
+#include <cstdio>
 
 #ifdef _WIN32
 #define LASERDOCKLIB_EXPORT __declspec(dllexport)
